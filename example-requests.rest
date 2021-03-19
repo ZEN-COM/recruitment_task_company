@@ -1,0 +1,7 @@
+
+### POST random company
+POST http://localhost:8081/companies/random
+
+
+### GET all companies
+GET http://localhost:8081/companies
